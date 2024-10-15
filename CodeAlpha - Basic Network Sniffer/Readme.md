@@ -9,7 +9,6 @@ This Python tool captures network traffic and displays important packet informat
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Disclaimer](#disclaimer)
-- [License](#license)
 
 ## Introduction
 
@@ -69,10 +68,6 @@ pip install pyfiglet scapy prettytable
 
 **This tool is for educational purposes only.** Please use it responsibly and ethically. The misuse of this tool for malicious activities is strictly prohibited. The authors are not responsible for any illegal use or damage caused by this tool.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Feel free to adjust the license, repository links, and any other relevant information!
+Feel free to adjust the repository links, and any other relevant information!
